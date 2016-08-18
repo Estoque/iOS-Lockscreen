@@ -1,0 +1,12 @@
+Package: com.estoque.neoclassic
+Name: NeoClassic Lockscreen
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Estoque <incusx@naver.com>
+Depends: com.groovycarrot.groovylock, mobilesubstrate, winterboard
+Depiction: http://est0que.tistory.com/1409
+Description: Classic iOS6 style lockscreen with realtime blur effect
+Homepage: http://est0que.tistory.com/
+Maintainer: Estoque <incusx@naver.com>
+Section: Themes (Addons)
+Sponsor: Estoque <http://est0que.tistory.com/>
